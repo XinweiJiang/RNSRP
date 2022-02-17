@@ -4,7 +4,7 @@ Code for the paper 'Unsupervised Dimensionality Reduction for Hyperspectral Imag
 ```
 @article{xiong2021rnsrp,
   title={Unsupervised Dimensionality Reduction for Hyperspectral Imagery via Non-negative Representation Projection},
-  author={Liwen Xiong and Xinwei Jiang and Pengyu Lu and Zhikun Chen and Yongshan Zhang and Xiaobo Liu and Zhihua Cai},
+  author={Liwen Xiong and Xinwei Jiang and Zhikun Chen and Yongshan Zhang and Xiaobo Liu and Zhihua Cai},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   volume={Submitted},
   year={2022},
