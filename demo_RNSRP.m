@@ -1,6 +1,6 @@
 %The code is for the following work, if you find it is useful, please cite our work:
 %
-%[1] L. Xiong, X. Jiang, P. Lu, Z. Chen, Y. Zhang, X. Liu and Z. Cai, "Unsupervised Dimensionality Reduction for Hyperspectral Imagery via Non-negative Representation Projection," IEEE Transactions on Geoscience and Remote Sensing, submitted.
+%[1] L. Xiong, X. Jiang, Z. Chen, Y. Zhang, X. Liu and Z. Cai, "Unsupervised Dimensionality Reduction for Hyperspectral Imagery via Non-negative Representation Projection," IEEE Transactions on Geoscience and Remote Sensing, submitted.
 %
 %If you need another two datasets (PaviaU and Salinas), please download them from http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 %
@@ -29,7 +29,7 @@ end
 classfy_options=[];
 %      classfy_options.method = 'SVM';
   classfy_options.method = 'KNN';
- classfy_options.knn_k=1;%knn分类器k的大小
+ classfy_options.knn_k=1;%knn路脰脌脿脝梅k碌脛麓贸脨隆
  classfy_options.distancekey='Distance';
  classfy_options.distancevalue='cosine';
 
